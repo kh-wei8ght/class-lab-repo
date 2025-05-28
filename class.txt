@@ -1,0 +1,13 @@
+Line 1: Crimson
+Line 2: Orange
+Line 3: Blue
+Line 4: Cyan
+Line 5: Yellow
+Line 6: Charcoal
+Line 7: Khaki
+Line 8: Coral
+Line 9: Silver
+Line 10: Fuchsia
+Line 11: Purple
+Line 12: Brown
+Line 13: Red
